@@ -1,0 +1,30 @@
+_id: req_0e10a56fe2c0440d8c455b854bc1bfb9
+type: Request
+parentId: fld_2526a0449ac94ec9872ab3faedbca4bd
+modified: 1653616559488
+created: 1653363577987
+url: http://localhost:3333/users
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "User name",
+    	"email": "email@email.com"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_44fe10de04e64634987bb21cfd5f8f4e
+authentication: {}
+metaSortKey: -1653363577987
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

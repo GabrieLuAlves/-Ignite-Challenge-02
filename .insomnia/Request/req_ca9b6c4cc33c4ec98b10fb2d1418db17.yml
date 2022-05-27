@@ -1,0 +1,21 @@
+_id: req_ca9b6c4cc33c4ec98b10fb2d1418db17
+type: Request
+parentId: fld_2526a0449ac94ec9872ab3faedbca4bd
+modified: 1653366331483
+created: 1653364106673
+url: http://localhost:3333/users/9e276c24-6f03-4c1f-8dfe-8fb1a58c9837/admin
+name: Turn user into admin
+description: ""
+method: PATCH
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653363577937
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
